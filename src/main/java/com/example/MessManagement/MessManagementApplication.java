@@ -9,5 +9,5 @@ public class MessManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MessManagementApplication.class, args);
 	}
-
+	System.out.println("Hello Saifullah!");
 }
